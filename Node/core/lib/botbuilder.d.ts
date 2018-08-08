@@ -3214,7 +3214,7 @@ export class Library {
 
     /**
      * Registers or returns a dialog from the library.
-     * @param id Unique ID of the dialog being regsitered or retrieved.
+     * @param id Unique ID of the dialog being registered or retrieved.
      * @param dialog (Optional) dialog or waterfall to register.
      * * __dialog:__ _{Dialog}_ - Dialog to add.
      * * __dialog:__ _{IDialogWaterfallStep[]}_ - Waterfall of steps to execute. See [IDialogWaterfallStep](/en-us/node/builder/chat-reference/interfaces/_botbuilder_d_.idialogwaterfallstep.html) for details.
